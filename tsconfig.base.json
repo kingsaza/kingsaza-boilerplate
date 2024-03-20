@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "module": "esnext",
+    "skipLibCheck": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "incremental": true,
+    "declaration": true,
+    "removeComments": true
+  }
+}
